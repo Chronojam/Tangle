@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangleEngine", "TangleEngine\TangleEngine.csproj", "{95471042-15C2-46C6-837B-62151EFD30F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangleEdit", "TangleEdit\TangleEdit\TangleEdit.csproj", "{8C22E134-F7FF-4B5C-ADB3-99F4B637F95A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangleEditContent", "TangleEdit\TangleEditContent\TangleEditContent.contentproj", "{34A6F0DA-56CF-4830-9CA6-E9412525DCE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95471042-15C2-46C6-837B-62151EFD30F8}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{95471042-15C2-46C6-837B-62151EFD30F8}.Debug|x86.ActiveCfg = Debug|x86
+		{95471042-15C2-46C6-837B-62151EFD30F8}.Debug|x86.Build.0 = Debug|x86
+		{95471042-15C2-46C6-837B-62151EFD30F8}.Release|Any CPU.ActiveCfg = Release|x86
+		{95471042-15C2-46C6-837B-62151EFD30F8}.Release|x86.ActiveCfg = Release|x86
+		{95471042-15C2-46C6-837B-62151EFD30F8}.Release|x86.Build.0 = Release|x86
+		{8C22E134-F7FF-4B5C-ADB3-99F4B637F95A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{8C22E134-F7FF-4B5C-ADB3-99F4B637F95A}.Debug|x86.ActiveCfg = Debug|x86
+		{8C22E134-F7FF-4B5C-ADB3-99F4B637F95A}.Debug|x86.Build.0 = Debug|x86
+		{8C22E134-F7FF-4B5C-ADB3-99F4B637F95A}.Release|Any CPU.ActiveCfg = Release|x86
+		{8C22E134-F7FF-4B5C-ADB3-99F4B637F95A}.Release|x86.ActiveCfg = Release|x86
+		{8C22E134-F7FF-4B5C-ADB3-99F4B637F95A}.Release|x86.Build.0 = Release|x86
+		{34A6F0DA-56CF-4830-9CA6-E9412525DCE5}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{34A6F0DA-56CF-4830-9CA6-E9412525DCE5}.Debug|x86.ActiveCfg = Debug|x86
+		{34A6F0DA-56CF-4830-9CA6-E9412525DCE5}.Release|Any CPU.ActiveCfg = Release|x86
+		{34A6F0DA-56CF-4830-9CA6-E9412525DCE5}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
