@@ -1,0 +1,16 @@
+D:\Users\Calum\documents\visual studio 2010\Projects\Tangle\TangleEdit\TangleEdit\bin\x86\Debug\TangleEdit.exe
+D:\Users\Calum\documents\visual studio 2010\Projects\Tangle\TangleEdit\TangleEdit\bin\x86\Debug\TangleEdit.pdb
+D:\Users\Calum\documents\visual studio 2010\Projects\Tangle\TangleEdit\TangleEdit\bin\x86\Debug\TangleEngine.dll
+D:\Users\Calum\documents\visual studio 2010\Projects\Tangle\TangleEdit\TangleEdit\bin\x86\Debug\TangleEngine.pdb
+D:\Users\Calum\documents\visual studio 2010\Projects\Tangle\TangleEdit\TangleEdit\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Calum\documents\visual studio 2010\Projects\Tangle\TangleEdit\TangleEdit\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Users\Calum\documents\visual studio 2010\Projects\Tangle\TangleEdit\TangleEdit\obj\x86\Debug\TangleEdit.exe
+D:\Users\Calum\documents\visual studio 2010\Projects\Tangle\TangleEdit\TangleEdit\obj\x86\Debug\TangleEdit.pdb
+D:\Users\Calum\documents\visual studio 2010\Projects\Tangle\TangleEdit\TangleEdit\bin\x86\Debug\Content\crate.xnb
+D:\Users\Calum\documents\visual studio 2010\Projects\Tangle\TangleEdit\TangleEdit\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\Calum\documents\visual studio 2010\Projects\Tangle\TangleEdit\TangleEdit\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\Calum\documents\visual studio 2010\Projects\Tangle\TangleEdit\TangleEdit\obj\x86\Debug\TangleEdit.Main.resources
+D:\Users\Calum\documents\visual studio 2010\Projects\Tangle\TangleEdit\TangleEdit\bin\x86\Debug\Content\Cube_Effect.xnb
+D:\Users\Calum\documents\visual studio 2010\Projects\Tangle\TangleEdit\TangleEdit\bin\x86\Debug\Content\Bricks.xnb
+D:\Users\Calum\documents\visual studio 2010\Projects\Tangle\TangleEdit\TangleEdit\bin\x86\Debug\Content\Instruction.xnb
+D:\Users\Calum\documents\visual studio 2010\Projects\Tangle\TangleEdit\TangleEdit\obj\x86\Debug\TangleEdit.Properties.resources
